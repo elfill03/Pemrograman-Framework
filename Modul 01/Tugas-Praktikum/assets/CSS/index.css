@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans&family=Acme&family=DM+Sans:wght@500&family=Inter:wght@600&family=Nunito:wght@700&family=Overpass&family=Secular+One&display=swap");
+
+* {
+  font-family: "Acme", sans-serif;
+  scroll-behavior: smooth;
+}
+.sub-judul {
+  margin-top: auto !important;
+  margin-bottom: auto !important;
+  color: #1bb196 !important;
+}
+.text-in {
+  font-family: "Acme", sans-serif;
+}
+a {
+  text-decoration: none !important;
+  color: #ffffff !important;
+}
+nav a:hover {
+  color: #1bb196 !important;
+}
+footer a:hover {
+  color: #000000 !important;
+}
+.img-1 {
+  width: min(100% - 10px, 240px);
+  height: min(100% - 10px, 240px) !important;
+}
+.img-2 {
+  width: min(100% - 10px, 180px);
+  height: min(100% - 10px, 180px) !important;
+}
+p {
+  text-align: justify;
+}
+video {
+  width: min(100% - 10px, 240px) !important;
+  height: min(100% - 10px, 240px) !important;
+  border-radius: 10px !important;
+}
+footer {
+  background-color: #1bb196;
+}
