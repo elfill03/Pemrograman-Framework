@@ -1,0 +1,12 @@
+* {
+    font-family: sans-serif;
+}
+body{
+    background-color: #fcfefc;
+}
+img {
+    width: min(100% - 10px, 300px) !important;
+    height: min(100% - 10px, 300px) !important;
+    border-radius: 10% !important;
+    box-shadow: 5px 3px 3px 6px #888888;
+}
